@@ -9,9 +9,11 @@ The library uses the Native Wifi API, available since Windows Vista and Windows 
 
 The original WifiExample was modified, adding a view using Windows Forms.
 
-This code was developed for the subject Preparatory Project, developed in Wroclaw (Poland) during the second semester of 2016/2017 academic year.
+There's an image of the view on the Wiki of this project.
 
-Currently, this project is discontinued because I have moved to another project:
+This code was developed for my Preparatory Project, developed during the second semester of 2016/2017 academic year.
+
+Currently, **this project is discontinued** because I have moved to another project:
 [PrioriFi](https://github.com/sokramcs/PrioriFi)
 
 There I try to apply what I've learned working on this project and I've moved from Windows Forms to Windows Presentation Foundation (WPF)
