@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Thresholds>
+  <Soka>71</Soka>
+  <PWR-WiFi>50</PWR-WiFi>
+  <Darmowe_Orange_WiFi>60</Darmowe_Orange_WiFi>
+  <HT_AP0>20</HT_AP0>
+  <vodafoneC7E0_5G>30</vodafoneC7E0_5G>
+</Thresholds>

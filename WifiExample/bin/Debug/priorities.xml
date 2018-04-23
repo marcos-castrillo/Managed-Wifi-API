@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Priorities>
+  <wePresent>10</wePresent>
+  <PWR-WiFi>1</PWR-WiFi>
+  <FreeCityInternet>5</FreeCityInternet>
+  <MiejskiInternet>2</MiejskiInternet>
+  <eduroam>4</eduroam>
+</Priorities>

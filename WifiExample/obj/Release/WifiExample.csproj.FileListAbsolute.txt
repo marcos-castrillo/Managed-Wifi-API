@@ -1,0 +1,62 @@
+D:\Project\WifiExample\bin\Release\WifiExample.exe.config
+D:\Project\WifiExample\bin\Release\WifiExample.exe.manifest
+D:\Project\WifiExample\bin\Release\WifiExample.application
+D:\Project\WifiExample\bin\Release\WifiExample.exe
+D:\Project\WifiExample\bin\Release\WifiExample.pdb
+D:\Project\WifiExample\bin\Release\EPPlus.dll
+D:\Project\WifiExample\bin\Release\ManagedWifi.dll
+D:\Project\WifiExample\bin\Release\EPPlus.xml
+D:\Project\WifiExample\obj\Release\WifiExample.Form1.resources
+D:\Project\WifiExample\obj\Release\WifiExample.csproj.GenerateResource.Cache
+D:\Project\WifiExample\obj\Release\WifiExample.exe.manifest
+D:\Project\WifiExample\obj\Release\WifiExample.application
+D:\Project\WifiExample\obj\Release\WifiExample.exe
+D:\Project\WifiExample\obj\Release\WifiExample.pdb
+D:\Project\WifiExample\obj\Release\WifiExample.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\bin\Release\WifiExample.exe.config
+C:\Users\Marcos\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\bin\Release\WifiExample.exe.manifest
+C:\Users\Marcos\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\bin\Release\WifiExample.application
+C:\Users\Marcos\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\bin\Release\WifiExample.exe
+C:\Users\Marcos\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\bin\Release\WifiExample.pdb
+C:\Users\Marcos\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\bin\Release\EPPlus.dll
+C:\Users\Marcos\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\bin\Release\ManagedWifi.dll
+C:\Users\Marcos\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\bin\Release\EPPlus.xml
+C:\Users\Marcos\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\obj\Release\WifiExample.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\obj\Release\WifiExample.Form1.resources
+C:\Users\Marcos\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\obj\Release\WifiExample.csproj.GenerateResource.Cache
+C:\Users\Marcos\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\obj\Release\WifiExample.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\obj\Release\WifiExample.exe.manifest
+C:\Users\Marcos\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\obj\Release\WifiExample.application
+C:\Users\Marcos\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\obj\Release\WifiExample.exe
+C:\Users\Marcos\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\obj\Release\WifiExample.pdb
+C:\Users\Sokram\Documents\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\bin\Release\WifiExample.exe.config
+C:\Users\Sokram\Documents\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\bin\Release\WifiExample.exe.manifest
+C:\Users\Sokram\Documents\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\bin\Release\WifiExample.application
+C:\Users\Sokram\Documents\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\bin\Release\WifiExample.exe
+C:\Users\Sokram\Documents\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\bin\Release\WifiExample.pdb
+C:\Users\Sokram\Documents\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\bin\Release\EPPlus.dll
+C:\Users\Sokram\Documents\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\bin\Release\ManagedWifi.dll
+C:\Users\Sokram\Documents\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\bin\Release\EPPlus.xml
+C:\Users\Sokram\Documents\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\obj\Release\WifiExample.csprojResolveAssemblyReference.cache
+C:\Users\Sokram\Documents\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\obj\Release\WifiExample.Form1.resources
+C:\Users\Sokram\Documents\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\obj\Release\WifiExample.csproj.GenerateResource.Cache
+C:\Users\Sokram\Documents\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\obj\Release\WifiExample.csproj.CoreCompileInputs.cache
+C:\Users\Sokram\Documents\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\obj\Release\WifiExample.exe.manifest
+C:\Users\Sokram\Documents\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\obj\Release\WifiExample.application
+C:\Users\Sokram\Documents\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\obj\Release\WifiExample.exe
+C:\Users\Sokram\Documents\Dropbox\University\Cuarto\Segundo cuatri\Preparatory project\Week 13-Final\Project\WifiExample\obj\Release\WifiExample.pdb
+C:\Users\Sokram\Documents\Project\WifiExample\bin\Release\WifiExample.exe.config
+C:\Users\Sokram\Documents\Project\WifiExample\bin\Release\WifiExample.exe.manifest
+C:\Users\Sokram\Documents\Project\WifiExample\bin\Release\WifiExample.application
+C:\Users\Sokram\Documents\Project\WifiExample\bin\Release\WifiExample.exe
+C:\Users\Sokram\Documents\Project\WifiExample\bin\Release\WifiExample.pdb
+C:\Users\Sokram\Documents\Project\WifiExample\bin\Release\ManagedWifi.dll
+C:\Users\Sokram\Documents\Project\WifiExample\bin\Release\EPPlus.xml
+C:\Users\Sokram\Documents\Project\WifiExample\obj\Release\WifiExample.csprojResolveAssemblyReference.cache
+C:\Users\Sokram\Documents\Project\WifiExample\obj\Release\WifiExample.Form1.resources
+C:\Users\Sokram\Documents\Project\WifiExample\obj\Release\WifiExample.csproj.GenerateResource.Cache
+C:\Users\Sokram\Documents\Project\WifiExample\obj\Release\WifiExample.csproj.CoreCompileInputs.cache
+C:\Users\Sokram\Documents\Project\WifiExample\obj\Release\WifiExample.exe.manifest
+C:\Users\Sokram\Documents\Project\WifiExample\obj\Release\WifiExample.application
+C:\Users\Sokram\Documents\Project\WifiExample\obj\Release\WifiExample.exe
+C:\Users\Sokram\Documents\Project\WifiExample\obj\Release\WifiExample.pdb

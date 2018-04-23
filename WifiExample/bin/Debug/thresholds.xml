@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Thresholds>
+  <Soka>50</Soka>
+  <bierhalle>50</bierhalle>
+  <wePresent>90</wePresent>
+  <eduroam>90</eduroam>
+  <PWR-WiFi>50</PWR-WiFi>
+</Thresholds>
